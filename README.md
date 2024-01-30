@@ -7,7 +7,7 @@ I've created a dynamic Power BI dashboard to analyze the HR Data.
 
 
 # Created Dynamic Dashboard to identify the following insights
-![image](https://github.com/Manikandan2708/IPL-Analysis/blob/main/IPL%20Analysis.png)
+![image](https://github.com/Manikandan2708/HR-Analytics-/blob/main/HR%20Analytics.png)
 
 - Overall employees count in the organization.
 - Attrition employees count in the organization.
